@@ -1,3 +1,7 @@
+This is a multiarch fork of the original docker-wetty-alpine (https://github.com/svenihoney/docker-wetty-alpine). It will allow it to be used on amd64, armv6, armv7 and armv8.
+
+Thanks to all the hard work of all the contributors to the original projects.
+
 Dockerized Wetty
 ================
 
